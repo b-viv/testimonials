@@ -16,7 +16,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Link](https://your-solution-url.com](https://www.frontendmentor.io/solutions/testimonials-grid-challenge-with-bootstrap-Ls8XE4_-Hg))
 - Live Site URL: [Link](https://your-live-site-url.com](https://b-viv.github.io/testimonials/))
 
 ## My process
