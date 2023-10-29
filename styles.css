@@ -1,0 +1,63 @@
+:root{
+    --Moderate-violet: hsl(263, 55%, 52%);
+    --Very-dark-grayish-blue: hsl(217, 19%, 35%);
+    --Very-dark-blackish-blue: hsl(219, 29%, 14%);
+    --White: hsl(0, 0%, 100%);
+    --Light-gray: hsl(0, 0%, 81%);
+    --Light-grayish-blue: hsl(210, 46%, 95%);
+}
+body{
+    margin: 10% 0 10% 0;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    background-color: var(--Light-grayish-blue);
+    font-size: 13px;
+    letter-spacing: .2px;
+    font-weight: 500;
+}
+.daniel{
+    background-color: var(--Moderate-violet);
+    background-image: url(images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 80% 0;
+}
+.jonathan{
+    background-color: var(--Very-dark-grayish-blue);
+}
+.jeanette,
+.kira{
+    background-color: var(--White);
+}
+.patrick{
+    background-color: var(--Very-dark-blackish-blue);
+}
+.avatar{
+    width: 30px;
+}
+.color-light-gray{
+    color: var(--Light-gray);
+}
+.color-dark-gray{
+    color: var(--Light-grayish-blue);
+}
+.color-black-gray{
+    color: var(--Very-dark-grayish-blue);
+    font-weight: 600;
+}
+.color-very-dark-gray{
+    color: var(--Very-dark-grayish-blue)
+}
+.fs-small{
+    font-size: 11px;
+}
+.fs-large{
+    font-size: 20px;
+}
+.lh-low{
+    line-height: 23px;
+}
+.border-purple {
+    border-color: #9e90dc !important;
+}
+.p-25-30{
+    padding: 25px 35px;
+}
