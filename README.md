@@ -17,7 +17,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Link](https://your-live-site-url.com](https://b-viv.github.io/testimonials/))
 
 ## My process
 
@@ -29,4 +29,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Viv](https://www.frontendmentor.io/profile/yourusername](https://www.frontendmentor.io/profile/b-viv)https://www.frontendmentor.io/profile/b-viv)
